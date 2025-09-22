@@ -214,11 +214,13 @@ END
 #### Manual Calculations
 
 (Add your calculation here)
-![division](https://github.com/user-attachments/assets/b4bec5eb-7774-4d0d-b681-a3a80e8392d5)
+
+![division](https://github.com/user-attachments/assets/f56c84c0-b32e-44de-8285-e4c2ad68df8d)
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
-![softdivi](https://github.com/user-attachments/assets/20f02498-484b-457a-8797-87b4a8058d59)
+
+![softdivi](https://github.com/user-attachments/assets/1c47153b-2137-405d-9324-83522789ef04)
 
 
 
