@@ -66,6 +66,7 @@ END
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="628" height="415" alt="experiment 1 indadd" src="https://github.com/user-attachments/assets/31a7c934-a7f3-448b-bd4f-ebdd10f0f914" />
 
 ## 2. SUBTRACTION
 
