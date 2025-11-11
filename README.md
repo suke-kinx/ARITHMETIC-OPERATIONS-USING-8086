@@ -61,13 +61,15 @@ END
 
 #### Manual Calculations
 
+![WhatsApp Image 2025-11-11 at 21 06 19_4d12b867](https://github.com/user-attachments/assets/65993ba6-f3d6-419d-94ac-0571f437acda)
+
 (Add your calculation here)
-![addition](https://github.com/user-attachments/assets/b46397f4-b339-434c-bb20-a5de12ac4f37)
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-<img width="646" height="325" alt="Screenshot 2025-09-12 090421" src="https://github.com/user-attachments/assets/123f1c15-00bd-4a19-ba63-354a0542f61a" />
+<img width="628" height="415" alt="experiment 1 indadd" src="https://github.com/user-attachments/assets/135be13c-92ec-4966-a6fc-cc7cf2de7c43" />
+
 
 ## 2. SUBTRACTION
 
@@ -113,15 +115,16 @@ END
 |                         |                          |
 
 #### Manual Calculations
-![subtraction](https://github.com/user-attachments/assets/6d8a12af-864d-434f-bafc-003f4fdb42ad)
+
+![WhatsApp Image 2025-11-11 at 21 23 43_3c1e6fbb](https://github.com/user-attachments/assets/36acd870-52db-470a-8dac-a4ffcebd3307)
 
 (Add your calculation here)
 
 ---
 
-
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-![softsub](https://github.com/user-attachments/assets/59f95717-8c04-40e4-8fa7-f4cda9425d13)
+<img width="647" height="430" alt="experiment 1 indsub" src="https://github.com/user-attachments/assets/e645df58-017f-42bb-95b4-0b2f1284a3d7" />
+
 
 ## 3. MULTIPLICATION
 
@@ -165,14 +168,15 @@ END
 
 #### Manual Calculations
 
-![multiplication](https://github.com/user-attachments/assets/cc4c7442-229c-4bd6-af4c-0198afa549e5)
+![WhatsApp Image 2025-11-11 at 21 36 51_0809cce4](https://github.com/user-attachments/assets/cf492f32-f1cd-491b-b1e5-c56aa505f694)
 
 (Add your calculation here)
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-![softmult](https://github.com/user-attachments/assets/e7ea28a7-dedf-4e73-a770-161cdefd995e)
+<img width="646" height="430" alt="experiment 1 indmul" src="https://github.com/user-attachments/assets/c71c3f3b-f979-4c6c-a7cd-d987c04b5c5a" />
+
 
 ## 4. DIVISION
 
@@ -213,15 +217,13 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-11-11 at 21 38 56_cf3c0962](https://github.com/user-attachments/assets/c882eee8-a3c3-498c-b43c-0414fb216c11)
 
-![division](https://github.com/user-attachments/assets/f56c84c0-b32e-44de-8285-e4c2ad68df8d)
+(Add your calculation here)
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
-
-![softdivi](https://github.com/user-attachments/assets/1c47153b-2137-405d-9324-83522789ef04)
-
+<img width="637" height="426" alt="experiment 1 inddiv" src="https://github.com/user-attachments/assets/a96db3cf-876d-435e-b413-d44d254c0d06" />
 
 
 ## RESULT
