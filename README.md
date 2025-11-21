@@ -57,7 +57,10 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|     2000-06             |      2004-1C             |
+|     2001-13             |      2005-28             |
+|     2002-16             |                          |
+|     2003-15             |                          |
 
 #### Manual Calculations
 
